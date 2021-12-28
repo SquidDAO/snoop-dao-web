@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "squiddao-19137",
+    "snoop": "snoopdao"
+  },
+  "targets": {}
+}
